@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nick Herrig",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/33797354?v=4",
+    "email": "neherrig@mail.com",
+    "phone": "(630) 234-9125",
+    "url": "http://nickherrig.com",
+    "summary": "This is where the summary goes!",
+    "location": {
+      "address": "1461 Breckinridge Ct",
+      "postalCode": "50010",
+      "city": "Ames",
+      "countryCode": "US",
+      "region": "Iowa"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "nickherrig",
+        "url": "https://twitter.com/NickHerrig"
+      },
+      {
+        "network": "Github",
+        "username": "NickHerrig",
+        "url": "https://github.com/NickHerrig"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "NickHerrig",
+        "url": "https://www.linkedin.com/in/nickherrig/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nebullam",
+      "location": "Ames, IA",
+      "description": "",
+      "position": "Lead Software Engineer",
+      "url": "https://claytonfarms.com",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Nebullam, a startup in Ames, IA, is a vertically integrated agriculture company that is building a new food system. We are building a new food system that is more sustainable, more transparent, and more equitable. We are building a new food system that is more sustainable, more transparent, and more equitable. We are building a new food system that is more sustainable, more transparent, and more equitable.",
+      "highlights": [
+        "Computer Vision",
+        "Slack Bot",
+        "Website and Shopify Store",
+        "Growing Tech Stack"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Iowa State University",
+      "url": "https://www.iastate.edu/",
+      "area": "Industrial Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012",
+      "endDate": "2017",
+      "score": "3.76",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
