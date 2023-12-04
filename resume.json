@@ -37,31 +37,52 @@
     {
       "name": "Nebullam",
       "location": "Ames, IA",
-      "description": "",
+      "description": "Nebullam Inc., a Y-Combinator and venture-backed startup, is revolutionizing agriculture with its direct-to-consumer indoor farming approach. They stand out with their unique offering of produce subscriptions and the world's freshest salads through a convenient drive-thru.",
       "position": "Lead Software Engineer",
       "url": "https://claytonfarms.com",
       "startDate": "2021-01-01",
-      "endDate": "Present",
-      "summary": "Nebullam, a startup in Ames, IA, is a vertically integrated agriculture company that is building a new food system. We are building a new food system that is more sustainable, more transparent, and more equitable. We are building a new food system that is more sustainable, more transparent, and more equitable. We are building a new food system that is more sustainable, more transparent, and more equitable.",
+      "endDate": null,
+      "summary": "As the Lead Software Engineer at Nebullam, I am responsible for the development and maintenance of the company's software and hardware systems. I work closely with the CEO and CTO to develop and implement the company's technical vision.",
       "highlights": [
-        "Computer Vision",
-        "Slack Bot",
-        "Website and Shopify Store",
-        "Growing Tech Stack"
+        "Spearheaded a Computer Vision project, leading the deployment of a Yolov8 model on a Nvidia Jetson using Roboflow. This initiative significantly enhanced the collection of vehicle images at the drive-thru, providing valuable insights into our customers",
+        "Successfully deployed a Slack bot agent with LangChain, integrating OpenAI APIs and Serper APIs hosted on Replit. This initiative was aimed at familiarizing the team with interacting with Large Language Models (LLMs) in a casual, watercooler-style setting, thereby enhancing team engagement and tech adaptability.",
+        "Led the successful launch of a Shopify store offering subscription-based produce bundles, resulting in over $250,000 in net revenue in its first year. This project not only expanded market reach but also established an e-commerce platform for direct-to-consumer sales.",
+        "Led the swift 6-week design and implementation of a tech stack for our pivot to drive-thru restaurants, projected to earn $650,000 in first-year revenue. This included IoT farm equipment, a comprehensive POS system, and integrated digital infrastructure."
+      ]
+    },
+    {
+      "name": "Principal Financial Group",
+      "location": "Des Moines, IA",
+      "description": "Nebullam Inc., a Y-Combinator and venture-backed startup, is revolutionizing agriculture with its direct-to-consumer indoor farming approach. They stand out with their unique offering of produce subscriptions and the world's freshest salads through a convenient drive-thru.",
+      "position": "Software Engineer",
+      "url": "https://www.principal.com/",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "As the Lead Software Engineer at Nebullam, I am responsible for the development and maintenance of the company's software and hardware systems. I work closely with the CEO and CTO to develop and implement the company's technical vision.",
+      "highlights": [
+        "Spearheaded a Computer Vision project, leading the deployment of a Yolov8 model on a Nvidia Jetson using Roboflow. This initiative significantly enhanced the collection of vehicle images at the drive-thru, providing valuable insights into our customers",
+        "Successfully deployed a Slack bot agent with LangChain, integrating OpenAI APIs and Serper APIs hosted on Replit. This initiative was aimed at familiarizing the team with interacting with Large Language Models (LLMs) in a casual, watercooler-style setting, thereby enhancing team engagement and tech adaptability.",
+        "Led the successful launch of a Shopify store offering subscription-based produce bundles, resulting in over $250,000 in net revenue in its first year. This project not only expanded market reach but also established an e-commerce platform for direct-to-consumer sales.",
+        "Led the swift 6-week design and implementation of a tech stack for our pivot to drive-thru restaurants, projected to earn $650,000 in first-year revenue. This included IoT farm equipment, a comprehensive POS system, and integrated digital infrastructure."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "Kreative Horizon",
+      "position": "Hackathon Judge",
+      "url": "https://kreativehorizon.com/",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "As a mentor and judge at Kreative Horizon Hackathons, I provided guidance to participants in developing their technical skills and played a role in selecting and rewarding the most innovative and effective solutions."
+    },
+    {
+      "organization": "Iowa State University Pappajohn Center for Entrepreneurship",
+      "position": "Pitch Competition Judge",
+      "url": "https://www.isupjcenter.org/competitions/fall-startup-pitch-competition/",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "At Iowa State University's Pitch Competitions, I combine my roles as a mentor and judge, offering valuable insights to participants to refine their pitches and playing a pivotal part in selecting the most promising and innovative technology projects."
     }
   ],
   "education": [
@@ -72,28 +93,7 @@
       "studyType": "Bachelor",
       "startDate": "2012",
       "endDate": "2017",
-      "score": "3.76",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "score": "3.76"
     }
   ],
   "skills": [
@@ -101,13 +101,14 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Remix React Framework",
+        "Next React Framework",
+        "JSX",
+        "Postgres"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Computer Networking",
       "level": "Master",
       "keywords": [
         "Mpeg",
@@ -124,23 +125,31 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Health and Fitness",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Test One",
+        "Test Two"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Andrew Dailey - Software Engineer",
+      "reference": ""
+    },
+    {
+      "name": "John Jaggo - CTO Peach Pay",
+      "reference": ""
+    },
+    {
+      "name": "Riley Snyder - Software Engineer",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "Home Lab",
+      "description": "Various stuff hosted on my home servers.",
       "highlights": [
         "Won award at AIHacks 2016",
         "Built by all women team of newbie programmers",
