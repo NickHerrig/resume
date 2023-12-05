@@ -36,13 +36,13 @@
   "work": [
     {
       "name": "Nebullam",
-      "location": "Ames, IA",
-      "description": "Nebullam Inc., a Y-Combinator backed startup, specializes in direct-to-consumer indoor farming and offers unique produce subscriptions and fresh salads via drive-thru restaurants.",
       "position": "Lead Software Engineer",
+      "description": "Nebullam, Inc.",
+      "location": "Ames, IA",
       "url": "https://claytonfarms.com",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "As Lead Software Engineer at Nebullam, I oversee the development and maintenance of software and hardware systems, collaborating with the CEO and CTO on technical strategy.",
+      "summary": "Nebullam Inc. is a Y-Combinator backed startup specializing in in direct-to-consumer indoor farming. As Lead Software Engineer, I oversee the development and maintenance of software and hardware systems, collaborating with the CEO and CTO on technical strategy.",
       "highlights": [
         "Developed and deployed a computer vision application on a Nvidia Jetson, enabling data collection and analytics.",
         "Implemented a Slack bot using LangChain and OpenAI APIs for team engagement and adaptability to Large Language Models (LLMs), fostering a collaborative and tech-savvy work environment.",
@@ -53,21 +53,22 @@
     {
       "name": "Principal Financial Group",
       "location": "Des Moines, IA",
-      "description": "Principal Financial Group is an American global financial investment management and insurance company headquartered in Des Moines, Iowa, U.S.",
       "position": "Software Engineer",
+      "description":"Principal Financial Group",
       "url": "https://www.principal.com/",
       "startDate": "2017-07-01",
       "endDate": "2020-12-31",
       "highlights": [
-        "Played a key role in the IT Recruitment Committee, strategizing to attract and develop a pipeline of over 100 top-tier IT interns annually.",
-        "Collaborated in designing and automating web infrastructure, enhancing system efficiency across various products and services."
+        "Increased iteration speed of Ansible development by introducing Molecule and Docker to the Linux infrastructure as code development process.",
+        "Collaborated in designing company wide web infrastructure, enhancing system efficiency across various products and services.",
+        "Played a key role in the IT Recruitment Committee, strategizing to attract and develop a pipeline of over 100 top-tier IT interns annually."
       ]
     },
     {
       "name": "Midest Beer Club",
       "location": "Ames, IA",
-      "description": "Direct to consumer craft beer service.",
       "position": "Co-founder and COO",
+      "description": "Midwest Beer Club",
       "url": "https://www.isupjcenter.org/2016/10/cystarters-spotlight-story-with-midwest-beer-club/",
       "startDate": "2015-10-01",
       "endDate": "2016-10-31",
@@ -80,12 +81,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Kreative Horizon",
+      "organization": "Kreative Horizon Hackathons",
       "position": "Hackathon Judge",
       "url": "https://kreativehorizon.com/",
       "startDate": "2023-07-01",
       "endDate": null,
-      "summary": "As a mentor and judge at Kreative Horizon Hackathons, I provided guidance to participants in developing their technical skills and played a role in selecting and rewarding the most innovative and effective solutions."
+      "summary": "As a judge, I provide guidance to participants in developing their technical skills and reward the most innovative and effective solutions."
     },
     {
       "organization": "Iowa State University Pappajohn Center for Entrepreneurship",
@@ -93,7 +94,7 @@
       "url": "https://www.isupjcenter.org/competitions/fall-startup-pitch-competition/",
       "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "At Iowa State University's Pitch Competitions, I combine my roles as a mentor and judge, offering valuable insights to participants to refine their pitches and playing a pivotal part in selecting the most promising and innovative technology projects."
+      "summary": "As a judge, I combine my technical and business skillsets, offering insights to participants' pitches, selecting the most promising projects for startup funding."
     }
   ],
   "education": [
@@ -111,30 +112,43 @@
     {
       "name": "Programming Languages",
       "keywords": [
-        "Python3",
+        "Python",
         "Go",
-        "Javascript"
+        "JavaScript"
       ]
     },
     {
       "name": "Databases",
       "keywords": [
         "Postgres",
-        "Sqlite",
-        "Supabase"
+        "SQLite",
+        "Supabase",
+        "Pinecone"
       ]
     },
     {
       "name": "Tooling",
       "keywords": [
+        "Linux",
         "Docker",
         "Ansible",
         "Terraform",
         "Wireguard",
         "Caddy/Nginx",
+        "Prometheus",
+        "Grafana",
         "Git",
         "Github Actions",
         "Tailscale"
+      ]
+    },
+    {
+      "name": "Models",
+      "keywords": [
+        "YOLOv8",
+        "OpenAI CLIP",
+        "OpenAI GPT-4",
+        "OpenAI Embeddings"
       ]
     }
   ],
@@ -150,6 +164,9 @@
     },
     {
       "name": "Fishing"
+    },
+    {
+      "name": "Health And Fitness"
     }
   ],
   "meta": {
