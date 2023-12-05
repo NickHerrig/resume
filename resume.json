@@ -7,7 +7,7 @@
     "email": "neherrig@mail.com",
     "phone": "(630) 234-9125",
     "url": "http://nickherrig.com",
-    "summary": "This is where the summary goes!",
+    "summary": "",
     "location": {
       "address": "1461 Breckinridge Ct",
       "postalCode": "50010",
@@ -37,33 +37,44 @@
     {
       "name": "Nebullam",
       "location": "Ames, IA",
-      "description": "Nebullam Inc., a Y-Combinator and venture-backed startup, is revolutionizing agriculture with its direct-to-consumer indoor farming approach. They stand out with their unique offering of produce subscriptions and the world's freshest salads through a convenient drive-thru.",
+      "description": "Nebullam Inc., a Y-Combinator backed startup, specializes in direct-to-consumer indoor farming and offers unique produce subscriptions and fresh salads via drive-thru restaurants.",
       "position": "Lead Software Engineer",
       "url": "https://claytonfarms.com",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "As the Lead Software Engineer at Nebullam, I am responsible for the development and maintenance of the company's software and hardware systems. I work closely with the CEO and CTO to develop and implement the company's technical vision.",
+      "summary": "As Lead Software Engineer at Nebullam, I oversee the development and maintenance of software and hardware systems, collaborating with the CEO and CTO on technical strategy.",
       "highlights": [
-        "Spearheaded a Computer Vision project, leading the deployment of a Yolov8 model on a Nvidia Jetson using Roboflow. This initiative significantly enhanced the collection of vehicle images at the drive-thru, providing valuable insights into our customers",
-        "Successfully deployed a Slack bot agent with LangChain, integrating OpenAI APIs and Serper APIs hosted on Replit. This initiative was aimed at familiarizing the team with interacting with Large Language Models (LLMs) in a casual, watercooler-style setting, thereby enhancing team engagement and tech adaptability.",
-        "Led the successful launch of a Shopify store offering subscription-based produce bundles, resulting in over $250,000 in net revenue in its first year. This project not only expanded market reach but also established an e-commerce platform for direct-to-consumer sales.",
-        "Led the swift 6-week design and implementation of a tech stack for our pivot to drive-thru restaurants, projected to earn $650,000 in first-year revenue. This included IoT farm equipment, a comprehensive POS system, and integrated digital infrastructure."
+        "Developed and deployed a computer vision application on a Nvidia Jetson, enabling data collection and analytics.",
+        "Implemented a Slack bot using LangChain and OpenAI APIs for team engagement and adaptability to Large Language Models (LLMs), fostering a collaborative and tech-savvy work environment.",
+        "Developed a Shopify store for subscription produce, generating $250,000 in first-year revenue and expanding our direct-to-consumer market.",
+        "Rapidly designed and deployed a tech stack for drive-thru restaurants, including IoT and POS systems, yielding $650,000 projected first-year revenue and immediate profitability."
       ]
     },
     {
       "name": "Principal Financial Group",
       "location": "Des Moines, IA",
-      "description": "Nebullam Inc., a Y-Combinator and venture-backed startup, is revolutionizing agriculture with its direct-to-consumer indoor farming approach. They stand out with their unique offering of produce subscriptions and the world's freshest salads through a convenient drive-thru.",
+      "description": "Principal Financial Group is an American global financial investment management and insurance company headquartered in Des Moines, Iowa, U.S.",
       "position": "Software Engineer",
       "url": "https://www.principal.com/",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "As the Lead Software Engineer at Nebullam, I am responsible for the development and maintenance of the company's software and hardware systems. I work closely with the CEO and CTO to develop and implement the company's technical vision.",
+      "startDate": "2017-07-01",
+      "endDate": "2020-12-31",
       "highlights": [
-        "Spearheaded a Computer Vision project, leading the deployment of a Yolov8 model on a Nvidia Jetson using Roboflow. This initiative significantly enhanced the collection of vehicle images at the drive-thru, providing valuable insights into our customers",
-        "Successfully deployed a Slack bot agent with LangChain, integrating OpenAI APIs and Serper APIs hosted on Replit. This initiative was aimed at familiarizing the team with interacting with Large Language Models (LLMs) in a casual, watercooler-style setting, thereby enhancing team engagement and tech adaptability.",
-        "Led the successful launch of a Shopify store offering subscription-based produce bundles, resulting in over $250,000 in net revenue in its first year. This project not only expanded market reach but also established an e-commerce platform for direct-to-consumer sales.",
-        "Led the swift 6-week design and implementation of a tech stack for our pivot to drive-thru restaurants, projected to earn $650,000 in first-year revenue. This included IoT farm equipment, a comprehensive POS system, and integrated digital infrastructure."
+        "Played a key role in the IT Recruitment Committee, strategizing to attract and develop a pipeline of over 100 top-tier IT interns annually.",
+        "Collaborated in designing and automating web infrastructure, enhancing system efficiency across various products and services."
+      ]
+    },
+    {
+      "name": "Midest Beer Club",
+      "location": "Ames, IA",
+      "description": "Direct to consumer craft beer service.",
+      "position": "Co-founder and COO",
+      "url": "https://www.isupjcenter.org/2016/10/cystarters-spotlight-story-with-midwest-beer-club/",
+      "startDate": "2015-10-01",
+      "endDate": "2016-10-31",
+      "highlights": [
+        "Secured $12,000 in startup funding through Cystarters, demonstrating persuasive pitch skills and strategic planning, essential for launching our business concept.",
+        "Efficiently developed and launched a user-friendly beer subscription website within a 12-week program, demonstrating rapid project execution and technical expertise.",
+        "Established partnerships with over 8 Iowa craft breweries, leveraging strong relationship-building and negotiation skills for successful business collaboration."
       ]
     }
   ],
@@ -72,7 +83,7 @@
       "organization": "Kreative Horizon",
       "position": "Hackathon Judge",
       "url": "https://kreativehorizon.com/",
-      "startDate": "2023-01-01",
+      "startDate": "2023-07-01",
       "endDate": null,
       "summary": "As a mentor and judge at Kreative Horizon Hackathons, I provided guidance to participants in developing their technical skills and played a role in selecting and rewarding the most innovative and effective solutions."
     },
@@ -93,27 +104,37 @@
       "studyType": "Bachelor",
       "startDate": "2012",
       "endDate": "2017",
-      "score": "3.76"
+      "score": "3.65"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Programming Languages",
       "keywords": [
-        "Remix React Framework",
-        "Next React Framework",
-        "JSX",
-        "Postgres"
+        "Python3",
+        "Go",
+        "Javascript"
       ]
     },
     {
-      "name": "Computer Networking",
-      "level": "Master",
+      "name": "Databases",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Postgres",
+        "Sqlite",
+        "Supabase"
+      ]
+    },
+    {
+      "name": "Tooling",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "Terraform",
+        "Wireguard",
+        "Caddy/Nginx",
+        "Git",
+        "Github Actions",
+        "Tailscale"
       ]
     }
   ],
@@ -125,50 +146,10 @@
   ],
   "interests": [
     {
-      "name": "Health and Fitness",
-      "keywords": [
-        "Test One",
-        "Test Two"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Andrew Dailey - Software Engineer",
-      "reference": ""
+      "name": "Golf"
     },
     {
-      "name": "John Jaggo - CTO Peach Pay",
-      "reference": ""
-    },
-    {
-      "name": "Riley Snyder - Software Engineer",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "Home Lab",
-      "description": "Various stuff hosted on my home servers.",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
+      "name": "Fishing"
     }
   ],
   "meta": {

@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "jsonresume-theme-even": "^0.22.0",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "resume-cli": "^3.0.8",
     "resumed": "^3.0.1"
   }
 }
